@@ -1,0 +1,13 @@
+{
+  "name": "working",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ."
+  },
+  "dependencies": {
+    "testdouble": "~2.0.1"
+  }
+}
